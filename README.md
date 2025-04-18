@@ -46,7 +46,7 @@ Confusion matrix and classification report were generated to visualize and evalu
 
 ## 🙋 Developed By
 
-**Tushar Sharma**  
+**Tushar Bhardwaj**  
 B.Tech CSE-AI (Section D)  
 KIET Group of Institutions, Ghaziabad  
 Under the guidance of **Abhishek Shukla**
